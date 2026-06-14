@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 _bibliography/publications.bib-e
 
+
+# Mastodon API token for toot-post.rb
+.mastodon-token

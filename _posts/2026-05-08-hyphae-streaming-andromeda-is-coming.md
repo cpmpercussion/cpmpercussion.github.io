@@ -4,6 +4,7 @@ title: "Hyphae release and album launch"
 date: 2026-05-08
 description: "Hyphae, the first album from Andromeda is Coming, is streaming now and releases on Bandcamp on 1 June 2026. Live launch at SMCClablive #2 on 3 June 2026."
 image: /assets/blog/2025/2025-hyphae-3-album-cover-candidate.jpg
+image_alt: "A black-and-white photograph looking up at a large steerable radio telescope dish, supported on a lattice framework with the receiver suspended above it, set against a sky scattered with clouds."
 tags:
   - performance
   - recording

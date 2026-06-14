@@ -13,6 +13,7 @@ description: >-
   assessments in Markdown, with automatic conversion to PDF and HTML and
   deployment to GitHub Pages.
 image: /assets/blog/2025/2025-pandoc-website-hci-example.png
+image_alt: "A dark-mode browser window showing a Human Computer Interaction course website by Dr Charles P Martin at the ANU College of Systems and Society, with numbered lists of assessments and lectures, each linking to HTML and PDF versions."
 ---
 
 This post is about a new course template I designed and have been using for my teaching at ANU. The idea is to author lectures, tutorials, and class resources in Markdown and then have files automatically converted to PDF and HTML and arranged in a simple website to share with students and colleagues.

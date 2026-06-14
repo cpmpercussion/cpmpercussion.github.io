@@ -12,6 +12,7 @@ tags:
 - performance
 description: "PhaseRings, my annular touchscreen instrument from 2014, is back: two updates restore it to working order and re-release it as an AUv3 plugin that integrates into modern iPad music workflows."
 image: /assets/blog/2026/2026-phaserings-blog-darkmode-16x10.jpg
+image_alt: "Three iPhone screenshots of the PhaseRings app on a dark teal background, each showing concentric rings tuned to a musical scale. The first has faint grey rings labelled with note names, the second has bright pink, cyan and orange rings, and the third shows the settings panel with sound scheme and composition options."
 ---
 
 [PhaseRings]({% link _projects/phaserings.md %}) is an annular iOS app for performing percussive music on a touchscreen that I released [way back in 2014]({% link _posts/2014-11-17-phaserings-released.md %}) during my PhD. Two recent updates have restored the app to working order and enabled it to be used as an AUv3 plugin so that it now fully integrates into modern iPad music workflows.
