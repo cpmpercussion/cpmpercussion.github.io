@@ -12,6 +12,7 @@ tags:
 - computing education
 description: "A reflection on five years of running laptop ensemble as a credit course at ANU, and what it took to scale from 8 students to 61 in 2023 — with 14 ensembles performing at Llewellyn Hall."
 image: /assets/blog/2023/acmc2023-15-lens-concert-llewellyn-dramatic.jpg
+image_alt: "A laptop ensemble performance at Llewellyn Hall with dramatic generative visuals filling the screens."
 ---
 
 This is a write-up of my presentation at the [2023 Australasian Computer Music Conference](https://computermusic.org.au/conferences/acmc2023/) (ACMC2023), held at the University of New England in Parramatta, NSW in October 2023. The talk described five years of running a laptop ensemble as a credit course in the ANU School of Computing, and the challenges — and surprises — of scaling it to 61 students in 2023.

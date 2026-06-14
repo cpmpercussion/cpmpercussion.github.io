@@ -2,6 +2,8 @@
 layout: post
 title: "Dream Tent: a sonic reconstruction of a 19th-century mind therapy device"
 date: 2025-09-17
+image: /assets/blog/2025/2025-dream-tent-5.jpg
+image_alt: "The Dream Tent in operation in the gallery, a tall fabric enclosure with sound diffused quietly via small loudspeakers under a couch, inviting visitors to enter for full immersion."
 description: "Collaborating with Martyn Jolly to reconstruct James Leonard Corning's 1899 Dream Tent at the ANU Drill Hall Gallery, with a generative soundtrack built on Bela and Pure Data."
 tags:
 - performance

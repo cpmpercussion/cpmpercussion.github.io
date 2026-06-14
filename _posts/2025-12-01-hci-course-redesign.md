@@ -3,6 +3,8 @@ layout: post
 title: "Redesigning HCI teaching for the next generation of researchers"
 date: 2025-12-01
 category: teaching
+image: /assets/blog/2025/2025-hci-tutorial.jpg
+image_alt: "Students at tables working collaboratively during an HCI tutorial."
 tags:
 - teaching
 - hci

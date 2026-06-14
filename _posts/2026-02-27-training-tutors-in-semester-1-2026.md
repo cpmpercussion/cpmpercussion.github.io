@@ -3,6 +3,8 @@ layout: post
 title: Training Tutors in the College of Systems and Society, Semester 1, 2026
 date: 2026-02-27 11:42 +1100
 category: note
+image: /assets/blog/2026/2026-tutor-training.jpg
+image_alt: "Tutors seated in the Birch Building's Interactive Theatre during a training session."
 summary: 
 tags:
 - teaching

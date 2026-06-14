@@ -10,6 +10,7 @@ tags:
 - travel
 description: Performing "Wrecked", a magic lantern show, at the Headland Writers Festival in Tathra, NSW, in October 2024. A collaboration with Martyn Jolly, Anita Pollard, Andrew Gray, Alexander Hunter, and Bronwyn Coupe.
 image: /assets/blog/2024/2024-magic-lanterns-tathra-2.jpg
+image_alt: "Soundcheck in Tathra Hall showing the magic lantern projection with a chromatrope slide."
 ---
 
 In October 2024 I travelled to Tathra on the NSW South Coast to perform *Wrecked*, a magic lantern show, as part of the prestigious [Headland Writers Festival](https://www.headlandfestival.com.au).

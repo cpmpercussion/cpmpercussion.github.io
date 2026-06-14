@@ -2,6 +2,8 @@
 layout: post
 title: On hosting NIME2025 in Canberra
 date: 2026-02-06 10:03 +1100
+image: /assets/blog/2025/NIME2025-selected-04.jpg
+image_alt: "Pia van Gelder (left) and Charles Martin (right) making welcoming remarks at the NIME2025 opening event."
 tags:
 - nime
 - school of computing

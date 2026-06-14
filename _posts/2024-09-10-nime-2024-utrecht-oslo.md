@@ -11,6 +11,7 @@ tags:
 - nime
 description: Travelling to Utrecht for NIME 2024 to run a workshop on embedded AI, watching lab members Yichen Wang and Sandy Ma perform Unspoken, announcing NIME2025 in Canberra, and visiting colleagues at the University of Oslo.
 image: /assets/blog/2024/2024-NIME-trip-01.jpg
+image_alt: "The waterways and historic buildings of Utrecht, the Netherlands."
 ---
 
 In September 2024 I travelled to Utrecht, Netherlands for NIME 2024, later stopping by Oslo to visit colleagues at the University of Oslo.

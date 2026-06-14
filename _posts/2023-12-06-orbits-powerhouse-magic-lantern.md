@@ -10,6 +10,7 @@ tags:
 - travel
 description: Performing live electronic music to a magic lantern show at Powerhouse Late in Sydney, August 2023. The recording became the album "Orbits".
 image: /assets/blog/2023/202308-lanterns-powerhouse-1.jpg
+image_alt: "Mobile music performance setup at the Powerhouse Museum, Sydney."
 ---
 
 In August 2023, I performed live electronic music as part of a magic lantern show at the [Powerhouse Museum](https://powerhouse.com.au) in Ultimo, Sydney. 

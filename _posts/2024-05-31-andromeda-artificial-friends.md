@@ -2,6 +2,8 @@
 layout: post
 title:  "Concert with Andromeda is Coming and Artificially Intelligent Friends"
 date: 2024-05-31
+image: /assets/blog/2024/2024-05-29-concert-3.jpg
+image_alt: "Charles Martin and Alec Hunter performing together as the duo Andromeda is Coming, surrounded by synthesisers and laptops."
 description: "Bringing back Andromed is Coming with new collaborators and new AI music systems."
 tags:
 - performance

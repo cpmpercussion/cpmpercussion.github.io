@@ -4,6 +4,7 @@ title: "Clear Skies on a Hill Recording Released"
 date: 2025-04-26
 description: "A live recording from September 2024 by Charles Martin and Yichen Wang, featuring augmented reality and generative AI musical instruments."
 image: /assets/blog/2025/2024-09-performance-on-a-hill-1.jpg
+image_alt: "The performance venue, literally a garage on top of a hill."
 tags:
 - performance
 - research

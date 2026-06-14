@@ -2,6 +2,8 @@
 layout: post
 title:  "SMCClablive #1 concert"
 date: 2025-11-24
+image: /assets/blog/2025/2025-smcclablive-1-1.jpg
+image_alt: "A performer wearing a VR headset on a darkened stage with hands raised, while a large screen behind shows blue virtual hands cupping a glowing blue sphere among floating points of light."
 description: "A wrapup of events at our SMCClablive #1 in early November 2025 with live coder Charlie Roberts (USA) and researchers from the ANU SMCClab"
 tags:
 - performance

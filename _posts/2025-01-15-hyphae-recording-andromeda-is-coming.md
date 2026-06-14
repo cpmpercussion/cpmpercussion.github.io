@@ -4,6 +4,7 @@ title: "Recording Hyphae with Intelligent Musical Instruments"
 date: 2025-01-15
 description: "Andromeda is Coming, Charles Martin and Alec Hunter, spent time in late 2024 recording improvisations with our IMPSY-powered intelligent instruments."
 image: /assets/blog/2025/2025-hyphae-1-recording-in-big-band-room.jpg
+image_alt: "Charles Martin and Alec Hunter recording Hyphae in the Big Band Room, ANU School of Music."
 tags:
 - performance
 - research

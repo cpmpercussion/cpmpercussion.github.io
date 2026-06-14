@@ -3,6 +3,8 @@ layout: post
 title: Recording an Unplugged AI lesson for the ANU STEMbox project
 date: 2024-07-15
 category: posts
+image: /assets/blog/2024/2024-unplugged-ai-stembox.jpg
+image_alt: "Charles Martin seated at a table holding up a sheet of paper with a noughts-and-crosses (tic-tac-toe) grid, beside the overlaid title text \"ANU STEM Boxes: Unplugged AI\"."
 tags:
 - teaching
 - computing education

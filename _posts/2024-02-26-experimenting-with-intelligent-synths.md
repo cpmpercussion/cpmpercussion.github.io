@@ -11,6 +11,7 @@ tags:
 - raspberry-pi
 description: Experimenting with IMPS running on a Raspberry Pi Zero 2 W and communicating via MIDI with regular synthesisers — a "GenAI MIDI plug" concept for intelligent musical instruments.
 image: /assets/blog/2024/202402-intelligent-synths-1-raspberrypi.jpg
+image_alt: "A Raspberry Pi Zero 2 W with a MIDI output socket soldered directly onto the board."
 ---
 
 I'm back at work for a research-focussed year and getting back to the _Intelligent Musical Instruments_ theme that I set for my [lab](https://smcclab.au).

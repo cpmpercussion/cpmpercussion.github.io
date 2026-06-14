@@ -3,6 +3,8 @@ layout: post
 title: Creative Computing on the BBC micro:bit with Bare-Metal ARM Assembly
 date: 2025-08-01
 category: teaching
+image: /assets/blog/2025/2025-baremetal-arm-serial-experiments-charles.jpg
+image_alt: "Charles Martin live-coding MIDI in ARM assembly on a BBC micro:bit during a lecture, standing beside a projected screen of code."
 tags:
 - teaching
 - arm assembly
