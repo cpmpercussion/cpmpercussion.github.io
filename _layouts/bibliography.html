@@ -4,8 +4,9 @@
 
 <div id="{{key}}-materials">
 
+  <div class="d-flex flex-wrap gap-2 my-2">
   {% if entry.abstract %}
-  <a class="btn btn-outline-secondary button-{{key}}-abstract" data-toggle="collapse" href="#{{key}}-abstract" role="button">Abstract</a>
+  <a class="btn btn-outline-secondary button-{{key}}-abstract" data-bs-toggle="collapse" href="#{{key}}-abstract" role="button" aria-expanded="false" aria-controls="{{key}}-abstract">Abstract</a>
   {% endif %}
   {% if entry.doi %}
   <a class="btn btn-outline-secondary" href="https://dx.doi.org/{{entry.doi}}">DOI</a>
@@ -25,7 +26,8 @@
   {% if entry.video %}
   <a class="btn btn-outline-secondary" href="{{entry.video}}">Video</a>
   {% endif %}
-  <a class="btn btn-outline-secondary button-{{key}}-bibtex" data-toggle="collapse" href="#{{key}}-bibtex" role="button">BibTex</a>
+  <a class="btn btn-outline-secondary button-{{key}}-bibtex" data-bs-toggle="collapse" href="#{{key}}-bibtex" role="button" aria-expanded="false" aria-controls="{{key}}-bibtex">BibTex</a>
+  </div>
 
   {% if entry.abstract %}
   <div class="collapse" id="{{key}}-abstract">
