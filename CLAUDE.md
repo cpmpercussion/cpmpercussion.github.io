@@ -35,7 +35,7 @@ This is a **Jekyll 4** personal/academic website for Charles Martin (charlesmart
   Older posts (2006–2014, migrated from WordPress/Posterous) may have legacy front matter fields like `status`, `meta`, `published`, and `categories: []` — these are harmless but not used by the current theme.
 - **`_projects/`** — Portfolio project pages, using `layout: project`. Front matter includes `started`, `ended`, `image`, `image_alt`, `summary`.
 - **`_lab/`** — Pages for the SMCCLAB research group section, using `layout: page`. The lab is being wound down on this site in favour of the separate [smcclab.au](https://smcclab.au) website. Lab project entries from `_data/lab-projects.yml` are being converted to regular blog posts instead.
-- **`_bibliography/publications.bib`** — BibTeX file powering the publications page via `jekyll-scholar`. Updated by running `./get_publications.sh` (fetches from a separate GitHub repo). Publications are filtered by BibTeX `keywords` field (e.g. `refereed`, `conference-paper`, `journal-article`).
+- **`_bibliography/publications.bib`** — BibTeX file powering the publications page via `jekyll-scholar`. Updated by running `./get_publications.sh` (fetches `publications.bib` from the `cpmpercussion/preprints` repo, which also deploys the preprint PDFs to charlesmartin.au/preprints/). Publications are filtered by BibTeX `keywords` field (e.g. `refereed`, `conference-paper`, `journal-article`).
 
 ### Data files (`_data/`)
 
@@ -85,7 +85,7 @@ Use Jekyll's `{% link %}` tag for internal links (e.g. `{% link _projects/microj
 
 ### Publications workflow
 
-The BibTeX file is maintained externally at `cpmpercussion/cpm-website-publications-list` on GitHub. Run `./get_publications.sh` to pull the latest version and strip metadata fields that cause parsing issues. Do not edit `_bibliography/publications.bib` directly.
+The BibTeX file is maintained externally at `cpmpercussion/preprints` on GitHub, alongside the preprint PDFs served at https://charlesmartin.au/preprints/. Run `./get_publications.sh` to pull the latest version and strip metadata fields that cause parsing issues. Do not edit `_bibliography/publications.bib` directly.
 
 ## SEO and accessibility conventions
 
