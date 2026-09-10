@@ -10,7 +10,14 @@ description: "IMPS is a system for predicting musical control data in live perfo
 tags: [IMPS, machine learning, neural network, interactive music, open source]
 ---
 
-IMPS began in 2019 as the musical strand of the [EPEC project (Engineering Predictability with Embodied Cognition)](https://www.uio.no/ritmo/english/projects/all/epec/) at the University of Oslo, which built systems that sense, learn and predict future events in both music and robotics. It has since continued at the ANU as [IMPSY](https://github.com/cpmpercussion/impsy).
+IMPS began in 2019 as the musical strand of the [EPEC project (Engineering Predictability with Embodied Cognition)](https://www.uio.no/ritmo/english/projects/all/epec/) at the University of Oslo, which built systems that sense, learn and predict future events in both music and robotics. It has since continued at the ANU as [IMPSY](https://github.com/cpmpercussion/impsy), which runs on a Raspberry Pi so that it can be embedded inside an instrument, and uses small-data models that a performer can train, inspect and control.
+
+## Who uses it
+
+- Andromeda is Coming's album [Hyphae]({% link _projects/hyphae.md %}) (2026) was improvised with IMPSY-powered instruments, and the IMPSY-Pi instrument was performed at the [SoundOut Festival 2026]({% link _posts/2026-02-01-soundout-2026.md %}).
+- Sandy Ma's commissioned work "Oh... What a joy it is to be held" (Science Gallery Melbourne, 2025) is built on IMPSY.
+- Lab research using IMPSY has been published at CHI 2025, Creativity and Cognition 2025 and NIME 2024 to 2026, and taught in the "Building NIMEs with Embedded AI" workshop at NIME 2024.
+- The companion [keras-mdn-layer](https://github.com/cpmpercussion/keras-mdn-layer) library has 171 GitHub stars and 10 citing papers from outside the lab (September 2026).
 
 IMPS is a system for predicting musical control data in live performance. It uses a mixture density recurrent neural network (MDRNN) to observe control inputs over multiple time steps, predicting the next value of each step, and the time that expects the next value to occur. It provides an input and output interface over OSC and can work with musical interfaces with any number of real valued inputs (we've tried from 1-8). Several interactive paradigms are supported for call-response improvisation, as well as independent operation, and "filtering" of the performer's input. Whenever you use IMPS, your input data is logged to build up a training corpus and a script is provided to train new versions of your model.
 

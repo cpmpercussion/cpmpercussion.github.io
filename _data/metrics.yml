@@ -1,0 +1,24 @@
+# Research profile figures shown on /publications/ and /esteem/. Refresh manually.
+scholar:
+  retrieved: 2026-09-10
+  citations: 1246
+  citations_since_2021: 1038
+  h_index: 16
+  i10_index: 31
+  url: https://scholar.google.com/citations?user=mTlH4G8AAAAJ
+publications:
+  refereed_count: 73   # numbered papers, articles and chapters in CV, 2026
+software:
+  retrieved: 2026-09-10
+  keras_mdn_layer: {stars: 171, forks: 43, citing_papers: 10}
+  impsy: {stars: 36, forks: 8, releases: 12}
+nime2025:
+  attendees: 199
+  in_person: 149
+  remote: 50
+  papers: 96
+  musical_works: 44
+  workshops: 9
+  concerts: 7
+  committee: 15
+  archive_doi: 10.5281/zenodo.17972009

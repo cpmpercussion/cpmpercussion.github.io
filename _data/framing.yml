@@ -34,13 +34,18 @@ long:
     technology and creative industries sector benefits through the events,
     courses and open tools this work produces.
   change: >-
-    The lab's platform, IMPSY, is a free, open-source system that turns any
-    musical interface into a predictive instrument that learns from its player.
-    It is used in our own recordings, performances and teaching, and is openly
-    available for others to build on. Its approach comes from EPEC (Engineering
-    Predictability with Embodied Cognition), a Research Council of Norway
-    project at the University of Oslo where I was a postdoctoral fellow from
-    2016 to 2019. EPEC built systems that sense, learn and predict future
+    The lab's platform, IMPSY, turns any musical interface into a predictive
+    instrument that learns from its player. It runs on a Raspberry Pi so it can
+    live inside an instrument, and it uses small-data models that artists can
+    train, inspect and control themselves, an alternative to opaque large-scale
+    generative AI. It is free and open source. My students have built on it:
+    Sandy Ma's IMPSY-based commission was shown at Science Gallery Melbourne in
+    2025, and lab work on it has been published at CHI, Creativity and Cognition
+    and NIME. The companion keras-mdn-layer library is used by machine learning
+    researchers well outside music. IMPSY's approach comes from EPEC
+    (Engineering Predictability with Embodied Cognition), a Research Council of
+    Norway project at the University of Oslo where I was a postdoctoral fellow
+    from 2016 to 2019. EPEC built systems that sense, learn and predict future
     events in two settings: musical smartphone apps, which became my
     predictive-instrument line, and adaptive robots, where the DyRET quadruped
     learned to change its body and gait on real terrain, published in Nature
@@ -50,14 +55,19 @@ long:
     national Centre for AI and Creativity, bringing more than 200 researchers
     and 30 cultural organisations into reach of my lab. At home, the Sound and
     Music Computing course I started at the ANU has grown from 7 students in
-    2019 to 180 in 2025, and hosting NIME 2025 brought the field's flagship
-    international conference to Canberra for the first time.
+    2019 to 180 in 2025, my students have interned at Dolby and Sony AI, and
+    hosting NIME 2025 brought the field's flagship international conference to
+    Canberra for the first time.
   evidence:
-    - "Google Scholar: 1,246 citations, h-index 16, with 83% of citations since 2021 (retrieved 2026-09-10)."
+    - "Google Scholar: 1,246 citations, h-index 16, i10-index 31, with 83% of citations since 2021 (retrieved 2026-09-10)."
     - "Postdoctoral fellow on EPEC (Engineering Predictability with Embodied Cognition), Research Council of Norway grant 240862, University of Oslo, 2016 to 2019."
     - "Nature Machine Intelligence (2021) and Evolutionary Computation (2021) papers on real-world robot morphology adaptation from EPEC, the most cited work on my Scholar profile."
-    - "IMPSY: open-source intelligent instrument platform, 12 releases since 2019; companion keras-mdn-layer library, 171 GitHub stars and 43 forks (retrieved 2026-09-10)."
-    - "General Chair, NIME 2025 at the ANU: 96 accepted papers, 44 musical works, 149 in-person and about 50 remote attendees."
+    - "IMPSY: open-source intelligent instrument platform, 12 releases since 2019, running on Raspberry Pi hardware; basis of Sandy Ma's 2025 commission for Science Gallery Melbourne and of lab papers at CHI 2025, Creativity and Cognition 2025 and NIME 2024 to 2026."
+    - "keras-mdn-layer: 171 GitHub stars, 43 forks and 10 citing papers from outside the lab (retrieved 2026-09-10)."
     - "Lead of the ANU node of MishMash, the Norwegian Centre for AI and Creativity (A$25M, from 2026): 200+ researchers, 22 Norwegian universities and research institutes, 30+ cultural organisations, with ANU the only Australian partner."
-    - "Sound and Music Computing course at the ANU grown from 7 students (2019) to 180 (2025); co-led the Human Centred and Creative Computing major."
-    - "Four PhD completions or submissions supervised, plus 30+ Honours and Master students."
+    - "General Chair, NIME 2025 at the ANU: 199 attendees (149 in person, 50 remote), 96 papers, 44 musical works, 9 workshops, 7 concerts; proceedings published before the conference; accessibility chair introduced."
+    - "Student industry engagement: three PhD internships at Dolby and one at Sony AI, with a joint Sony AI paper at AAAI 2026; PhD students funded by the CSIRO Next Generation Graduate Program and a CSIRO Cobotics top-up."
+    - "Sound and Music Computing course at the ANU grown from 7 students (2019) to 180 (2025); co-led the Human Centred and Creative Computing major, now the third-largest study focus in the School of Computing and its most gender-diverse (48% non-male, 2025)."
+    - "Three PhD completions and one thesis under examination, plus 30+ Honours and Master students; graduates hold postdoctoral positions at Université de Lille and the University of Oslo."
+    - "15+ performances with intelligent musical instruments in 2024 to 2026, including the curated SoundOut Festival 2026 and a peer-reviewed performance at NIME 2026, the largest NIME to date."
+    - "ERC Consolidator Grant reviewer (2025); Associate Chair for ACM CHI 2026, ACM MM 2024 and ACM DIS 2022; elected NIME Board member (2024); Senior Member of the ACM and the IEEE."

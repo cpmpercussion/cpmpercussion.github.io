@@ -33,6 +33,20 @@ You can find the whole program archived in the conference website [here](https:/
 
 ![Welcome to Country from Senior Ngunnawal Elder Aunty Violet Sheridan]({% link  assets/blog/2025/NIME2025-selected-07.jpg %})
 
+## by the numbers
+
+{% assign n = site.data.metrics.nime2025 %}
+
+| | |
+|---|---|
+| Attendees | {{ n.attendees }} ({{ n.in_person }} in person, {{ n.remote }} remote) |
+| Papers | {{ n.papers }} |
+| Musical works | {{ n.musical_works }} |
+| Workshops | {{ n.workshops }} |
+| Concerts | {{ n.concerts }} |
+| Organising committee | {{ n.committee }} members |
+| Archive | [doi:{{ n.archive_doi }}](https://doi.org/{{ n.archive_doi }}) |
+
 ## attendees
 
 Our conference attendance and paper/music acceptances were reported in the [town hall meeting (link)](https://nime.org/web_archive/2025/sessions/plenary-town-hall.html), but here's a short recap.

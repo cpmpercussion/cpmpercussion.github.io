@@ -1,0 +1,13 @@
+{% assign m = site.data.metrics %}
+<div class="card my-3">
+  <div class="card-body">
+    <h2 class="h5 card-title">Research profile</h2>
+    <div class="row text-center">
+      <div class="col-6 col-md-3"><div class="fs-3">{{ m.scholar.citations }}</div><div class="small text-secondary">citations</div></div>
+      <div class="col-6 col-md-3"><div class="fs-3">{{ m.scholar.citations_since_2021 | times: 100 | divided_by: m.scholar.citations }}%</div><div class="small text-secondary">of citations since 2021</div></div>
+      <div class="col-6 col-md-3"><div class="fs-3">{{ m.scholar.h_index }}</div><div class="small text-secondary">h-index</div></div>
+      <div class="col-6 col-md-3"><div class="fs-3">{{ m.publications.refereed_count }}</div><div class="small text-secondary">refereed papers, articles and chapters</div></div>
+    </div>
+    <p class="small text-secondary mb-0 mt-2">Citation figures from <a href="{{ m.scholar.url }}">Google Scholar</a>, retrieved {{ m.scholar.retrieved | date: "%-d %B %Y" }}. Scopus-based counts, such as those on the <a href="https://researchportalplus.anu.edu.au/en/persons/charles-martin/">ANU research portal</a>, are lower because they index fewer music technology venues. See also <a href="{{ '/esteem/' | relative_url }}">esteem and service</a>.</p>
+  </div>
+</div>
