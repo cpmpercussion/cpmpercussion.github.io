@@ -22,7 +22,7 @@ This page collects indicators of research esteem, leadership and service in one 
 
 | Year | Source | Amount |
 |---|---|---|
-| 2026 | MishMash Centre for AI and Creativity, Research Council of Norway. ANU node within a A$25M national centre. | A$150,000 to ANU |
+| 2026 | MishMash Centre for AI and Creativity, Research Council of Norway. ANU node within a 173M NOK (A$25M) national centre. | A$150,000 to ANU |
 | 2022 | Defence Science and Technology Group, AI for Decision Making Initiative | A$30,000 |
 | 2019 | CSIRO Data61 Collaborative Research Project, "The Augmented Urban Web" (with H Gardner, B Swift and others) | A$20,000 |
 | 2019 | NVIDIA Data Science GPU Grant | hardware, US$3,000 |
