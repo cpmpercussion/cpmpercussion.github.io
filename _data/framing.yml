@@ -6,7 +6,7 @@
 one_line: >-
   Charles Martin builds intelligent musical instruments and open-source AI tools
   that let musicians, students and researchers work with AI in live, creative
-  settings, and leads the Australian node of Norway's MishMash Centre for AI and Creativity.
+  settings.
 
 short: >-
   I build musical instruments and open-source software that let people play
@@ -28,14 +28,14 @@ long:
     a replacement. Students learning to build creative software. Robotics and
     embodied-AI researchers who need methods for machines that act and adapt in
     the physical world. Through the MishMash Centre for AI and Creativity, where
-    I lead the Australian node, the work reaches the sectors that centre serves:
+    I lead an ANU node, the work reaches the sectors that centre serves:
     the creative industries, cultural heritage institutions, schools and lifelong
     learning, and arts-based health and well-being. In Australia, the music
     technology and creative industries sector benefits through the events,
     courses and open tools this work produces.
   change: >-
     The lab's platform, IMPSY, turns any musical interface into a predictive
-    instrument that learns from its player. It runs on a Raspberry Pi so it can
+    instrument that learns from its player. It can run on a Raspberry Pi so it can
     live inside an instrument, and it uses small-data models that artists can
     train, inspect and control themselves, an alternative to opaque large-scale
     generative AI. It is free and open source. My students have built on it:
@@ -51,7 +51,7 @@ long:
     learned to change its body and gait on real terrain, published in Nature
     Machine Intelligence. The models differ, but the problem is the same:
     prediction and adaptation for real-time action in the physical world. That
-    heritage is why I am now the Australian node of MishMash, Norway's 173M NOK
+    heritage is why I am now the ANU node of MishMash, Norway's 173M NOK
     (A$25M) national Centre for AI and Creativity, bringing more than 200 researchers
     and 30 cultural organisations into reach of my lab. At home, the Sound and
     Music Computing course I started at the ANU has grown from 7 students in
