@@ -1,16 +1,27 @@
+---
+---
 # llms.txt for charlesmartin.au
 # Charles Martin — computer scientist, musician, and researcher at the ANU
 
 ## About
 
-Charles Martin is a Senior Lecturer in Computer Science at the Australian National University (ANU) in Canberra, Australia. He specialises in music technology, creative AI, and human-computer interaction. He is a researcher, musician, and digital artist whose work blends traditional instruments with machine learning and interactive computing.
+{{ site.data.framing.one_line | strip }} He is a Senior Lecturer in Computer Science at the Australian National University (ANU) in Canberra, Australia, where he directs the Sound, Music and Creative Computing Lab (SMCCLAB).
+
+## Why this work matters
+
+{{ site.data.framing.long.problem | strip }}
+
+Evidence:
+
+{% for item in site.data.framing.long.evidence %}- {{ item }}
+{% endfor %}
 
 ## Key pages
 
 - Homepage: https://charlesmartin.au/
 - Biography: https://charlesmartin.au/bio/
 - Publications: https://charlesmartin.au/publications/
-- Research lab (SMCCLAB — Sound, Music, and Creative Computing Lab): https://charlesmartin.au/lab/
+- Research lab (SMCCLAB — Sound, Music, and Creative Computing Lab): https://smcclab.au/
 - Projects: https://charlesmartin.au/projects/
 - Blog: https://charlesmartin.au/blog/
 

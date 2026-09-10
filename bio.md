@@ -2,12 +2,8 @@
 layout: page
 title: Biography
 permalink: /bio/
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta: {}
+description: "Charles Martin builds intelligent musical instruments and open-source AI tools that let musicians, students and researchers work with AI in live, creative settings."
+image: /assets/bio/charlesmartin-synth-profile.jpg
 carousel:
   - image: /assets/bio/charlesmartin-synth-profile.jpg
     alt: Charles Martin with a synthesiser
@@ -29,11 +25,15 @@ carousel:
     alt: Charles Martin at Touch and Tone
 ---
 
+{{ site.data.framing.short | strip }}
+
 Charles Martin is an Australian computer scientist, percussionist and digital artist blending traditional instruments with cutting-edge technology. His innovative performances explore artificial intelligence and augmented realities, creating captivating sonic landscapes. Martin's work has been featured across Australia, Europe, and the USA.
 
 Charles develops musical apps such as MicroJam and PhaseRings, researches creative AI, and performs music with Ensemble Metatone and Andromeda is Coming. At the ANU, Charles teaches creative computing and leads research into intelligent musical instruments. His lab's focus is on developing new intelligent instruments, performing new music with them, and bringing them to a broad audience of musicians and performers.
 
 Prior to his present appointment as a Senior Lecturer in computer science at the ANU, Charles was a postdoctoral research fellow at the University of Oslo's [Robotics and Intelligent Systems](https://www.mn.uio.no/ifi/english/research/groups/robin/) research group (2016-2019).
+
+{% include framing-long.html %}
 
 ## Images
 
@@ -47,7 +47,7 @@ Charles is a co-founder of [Ensemble Evolution](https://ensembleevolution.bandca
 
 In 2012, Charles completed a Master of Music Performance in Percussion at Luleå University of Technology's School of Music and Media in Piteå, Sweden. The otherworldly environment of Northern Sweden became a rich source of inspiration for Charles, resulting in [Nordlig Vinter](https://charlesmartin.bandcamp.com/album/nordlig-vinter), his debut album of works for percussion and computer, which was released in 2013.
 
-From 2013--2016, Charles was a PhD candidate at the ANU Research School of Computer Science, Charles created iPad apps for music-making and new networked software for mediating and extending ensemble improvisation through machine learning and gesture recognition. Charles' research work was published in ACM CHI, the premier international conference on Human-Computer Interaction, and at NIME (New Interfaces for Musical Interaction).
+From 2013--2016, Charles was a PhD candidate at the ANU Research School of Computer Science, where he created iPad apps for music-making and new networked software for mediating and extending ensemble improvisation through machine learning and gesture recognition. Charles' research work was published in ACM CHI, the premier international conference on Human-Computer Interaction, and at NIME (New Interfaces for Musical Interaction).
 
 Charles was a postdoctoral fellow with the [Robotics and Intelligent Systems](https://www.mn.uio.no/ifi/english/research/groups/robin/) research group at the University of Oslo from 2016--2019, where he developed ways to integrate machine learning into musical smartphone apps, bio-sensor music controllers, and self-contained musical systems. The culmination of this work was IMPS (interactive music prediction system), a standalone deep learning model for predicting musical gestures on a variety of musical interfaces.
 

@@ -2,8 +2,10 @@ title: Charles Martin
 email: cpm@charlesmartin.au
 title-image: "/assets/bio/charlesmartin-synth-profile.jpg"
 tagline: A blog about music technology and computing.
-description: > 
-  Charles Martin is a computer scientist and musician specialising in music technology, creative AI, and human-computer interaction.
+# Keep in sync with one_line in _data/framing.yml (config cannot read _data).
+description: >-
+  Charles Martin builds intelligent musical instruments and open-source AI tools
+  that let musicians, students and researchers work with AI in live, creative settings.
 baseurl: ""
 url: "https://charlesmartin.au"
 twitter_username: cpmpercussion

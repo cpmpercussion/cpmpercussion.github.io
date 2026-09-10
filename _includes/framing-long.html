@@ -1,0 +1,15 @@
+{% comment %}Renders the long benefit statement from _data/framing.yml (issue #36).{% endcomment %}
+{% assign f = site.data.framing.long %}
+<section class="framing-long" id="why-this-work-matters">
+<h2>Why this work matters</h2>
+<h3 class="h5">The problem</h3>
+<p>{{ f.problem | strip }}</p>
+<h3 class="h5">Who benefits</h3>
+<p>{{ f.beneficiaries | strip }}</p>
+<h3 class="h5">What changes</h3>
+<p>{{ f.change | strip }}</p>
+<h3 class="h5">Evidence</h3>
+<ul>
+{% for item in f.evidence %}<li>{{ item }}</li>
+{% endfor %}</ul>
+</section>

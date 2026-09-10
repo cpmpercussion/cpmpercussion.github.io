@@ -1,0 +1,49 @@
+# Canonical benefit statement for the site, in three lengths (see GitHub issue #36).
+# Edit here, not in the pages: the hero, bio, JSON-LD and llms.txt all read from this file.
+# Guardrail: every sentence in the long form should survive "what's the evidence for that?"
+# Figures marked with a date need to be refreshed manually.
+
+one_line: >-
+  Charles Martin builds intelligent musical instruments and open-source AI tools
+  that let musicians, students and researchers work with AI in live, creative settings.
+
+short: >-
+  I build musical instruments and open-source software that let people play
+  music with AI in real time. My work shows how humans and AI systems can
+  collaborate under the fast, high-stakes conditions of live performance, and
+  turns those lessons into tools used by musicians, students and other
+  researchers. I lead the Sound, Music and Creative Computing Lab at the ANU.
+
+long:
+  problem: >-
+    Most AI systems are built for tasks where a person types a request and waits
+    for an answer. Live music is different: a performer and a machine have to act
+    together, continuously, in front of an audience, with no time to review the
+    output. Understanding how people can trust, direct and share creative
+    ownership with an AI system under these conditions is an open problem, and
+    one that everyday computing is only beginning to meet.
+  beneficiaries: >-
+    Performing musicians and composers who want AI as a collaborator rather than
+    a replacement. Students learning to build creative software. Robotics and
+    embodied-AI researchers who need methods for machines that adapt in the
+    physical world. The Australian music technology and creative industries
+    sector, through the events, courses and open tools this work produces.
+  change: >-
+    The lab's platform, IMPSY, is a free, open-source system that turns any
+    musical interface into a predictive instrument that learns from its player.
+    It is used in our own recordings, performances and teaching, and is openly
+    available for others to build on. The same predictive-modelling approach was applied at the
+    University of Oslo to a quadruped robot that evolved its body and gait in
+    the real world, published in Nature Machine Intelligence, and is the most
+    cited work on my profile. The Sound and Music Computing course I started at
+    the ANU has grown from 7 students in 2019 to 180 in 2025, and hosting NIME
+    2025 brought the field's flagship international conference to Canberra for
+    the first time.
+  evidence:
+    - "Google Scholar: 1,246 citations, h-index 16, with 83% of citations since 2021 (retrieved 2026-09-10)."
+    - "Nature Machine Intelligence (2021) and Evolutionary Computation (2021) papers on real-world robot morphology adaptation with the University of Oslo."
+    - "IMPSY: open-source intelligent instrument platform, 12 releases since 2019; companion keras-mdn-layer library, 171 GitHub stars and 43 forks (retrieved 2026-09-10)."
+    - "General Chair, NIME 2025 at the ANU: 96 accepted papers, 44 musical works, 149 in-person and about 50 remote attendees."
+    - "Investigator in the Norwegian MishMash Centre for AI and Creativity (2026), ANU the only non-Norwegian partner."
+    - "Sound and Music Computing course at the ANU grown from 7 students (2019) to 180 (2025); co-led the Human Centred and Creative Computing major."
+    - "Four PhD completions or submissions supervised, plus 30+ Honours and Master students."
