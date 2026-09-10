@@ -38,6 +38,8 @@ Charles Martin is a Senior Lecturer in Computer Science at the Australian Nation
 - DBLP: https://dblp.org/pid/208/2413.html
 - GitHub: https://github.com/cpmpercussion
 - Mastodon: https://aus.social/@charlesmartin
+- Bluesky: https://bsky.app/profile/cpmrtn.bsky.social
+- LinkedIn: https://www.linkedin.com/in/charles-patrick-martin/
 - Bandcamp: https://charlesmartin.bandcamp.com/
 - ANU staff page: https://comp.anu.edu.au/people/charles-martin/
 
