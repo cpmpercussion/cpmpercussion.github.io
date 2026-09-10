@@ -10,6 +10,8 @@ description: "IMPS is a system for predicting musical control data in live perfo
 tags: [IMPS, machine learning, neural network, interactive music, open source]
 ---
 
+IMPS began in 2019 as the musical strand of the [EPEC project (Engineering Predictability with Embodied Cognition)](https://www.uio.no/ritmo/english/projects/all/epec/) at the University of Oslo, which built systems that sense, learn and predict future events in both music and robotics. It has since continued at the ANU as [IMPSY](https://github.com/cpmpercussion/impsy).
+
 IMPS is a system for predicting musical control data in live performance. It uses a mixture density recurrent neural network (MDRNN) to observe control inputs over multiple time steps, predicting the next value of each step, and the time that expects the next value to occur. It provides an input and output interface over OSC and can work with musical interfaces with any number of real valued inputs (we've tried from 1-8). Several interactive paradigms are supported for call-response improvisation, as well as independent operation, and "filtering" of the performer's input. Whenever you use IMPS, your input data is logged to build up a training corpus and a script is provided to train new versions of your model.
 
 ![MIT License](https://img.shields.io/github/license/cpmpercussion/keras-mdn-layer.svg?style=flat)

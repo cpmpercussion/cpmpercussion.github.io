@@ -5,7 +5,8 @@ tagline: A blog about music technology and computing.
 # Keep in sync with one_line in _data/framing.yml (config cannot read _data).
 description: >-
   Charles Martin builds intelligent musical instruments and open-source AI tools
-  that let musicians, students and researchers work with AI in live, creative settings.
+  that let musicians, students and researchers work with AI in live, creative
+  settings, and leads the Australian node of Norway's MishMash Centre for AI and Creativity.
 baseurl: ""
 url: "https://charlesmartin.au"
 twitter_username: cpmpercussion

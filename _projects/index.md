@@ -61,5 +61,5 @@ I'm always looking for new ways to combine these interests!
 
 ### Projects
 
-- [EPEC - Engineering Predictability with Embodied Cognition (University of Oslo)](https://www.hf.uio.no/ritmo/english/projects/all/epec/)
+- [EPEC - Engineering Predictability with Embodied Cognition (University of Oslo)](https://www.uio.no/ritmo/english/projects/all/epec/)
 - [MusicLab (University of Oslo)](https://www.hf.uio.no/ritmo/english/news-and-events/events/musiclab/)
