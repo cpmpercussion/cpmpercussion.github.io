@@ -40,3 +40,7 @@ We will launch _Hyphae_ live at [SMCClablive #2](https://smcclab.au/2026/03/31/s
 SMCClablive is the end-of-semester research performance series I run with the ANU Sound, Music, and Creative Computing Lab. Sharing the bill with us are students and staff from the lab presenting new work.
 
 If you are in Canberra, come along. If not, stream the record and tell me you did!
+
+**Update:** the launch went ahead on 3 June 2026 and the full Andromeda is Coming set is now on YouTube:
+
+{% include youtubePlayer.html id="wXgTPHizt9E" %}

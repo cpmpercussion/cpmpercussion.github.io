@@ -13,9 +13,7 @@ _Hyphae_ is an album of improvisations by **Andromeda is Coming** — Charles Ma
 
 Read more about the recording sessions: [Recording Hyphae with Intelligent Musical Instruments]({% link _posts/2025-01-15-hyphae-recording-andromeda-is-coming.md %}).
 
-_Hyphae_ will be release on 1 June 2026 through our [Collected Resonances label on Bandcamp](https://collectedresonances.bandcamp.com/album/hyphae). You can stream _Hyphae_ below:
-
-You can stream it right now in your [music app of choice (link list)](https://li.sten.to/hyphae-andromeda-is-coming) or on Bandcamp below.
+_Hyphae_ was released on 1 June 2026 through our [Collected Resonances label on Bandcamp](https://collectedresonances.bandcamp.com/album/hyphae). You can stream it in your [music app of choice (link list)](https://li.sten.to/hyphae-andromeda-is-coming) or on Bandcamp below.
 
 <iframe style="border: 0; width: 400px; height: 638px;" src="https://bandcamp.com/EmbeddedPlayer/album=1085958039/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/tracklist=true/tracks=1928341001,3978658539,3431344621,3081235482/esig=6b9a6b5573f9c064b7f5a1e2c1c20f94/" seamless><a href="https://collectedresonances.bandcamp.com/album/hyphae">Hyphae by Andromeda is Coming</a></iframe>
 
@@ -26,6 +24,12 @@ You can stream it right now in your [music app of choice (link list)](https://li
 </audio>
 [Download MP3]({% link assets/projects/hyphae/hyphae-take-4-bonus.mp3 %})
 -->
+
+## Album Launch
+
+We launched _Hyphae_ live at [SMCClablive #2](https://smcclab.au/2026/03/31/smcclablive-2.html) on 3 June 2026 in the Big Band Room, ANU School of Music. Here is the full Andromeda is Coming set from that night:
+
+{% include youtubePlayer.html id="wXgTPHizt9E" %}
 
 ## Liner Notes
 
