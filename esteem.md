@@ -59,8 +59,7 @@ PhD students in the lab are funded by the CSIRO Next Generation Graduate Program
 
 ## Supervision
 
-- **PhD completed**: Dr Yichen Wang (ANU, 2021--2026, now postdoctoral fellow, Université de Lille); Dr Benedikte Wallace (University of Oslo, 2018--2023, now postdoctoral fellow, University of Oslo); Dr Tønnes Nygaard (University of Oslo, associate supervisor, 2016--2020, now Associate Professor, University of Oslo).
-- **PhD under examination**: Xinlei Niu (ANU, submitted March 2026).
+- **PhD completed**: Dr Xinlei Niu (ANU, 2022--2026, now audio algorithm researcher, TikTok, Sydney); Dr Yichen Wang (ANU, 2021--2026, now postdoctoral fellow, Université de Lille); Dr Benedikte Wallace (University of Oslo, 2018--2023, now postdoctoral fellow, University of Oslo); Dr Tønnes Nygaard (University of Oslo, associate supervisor, 2016--2020, now Associate Professor, University of Oslo).
 - **PhD continuing**: Minsik Choi, Sandy Ma, Albert Ngabo-Niyonsenga.
 - 14+ Master's and 16+ Honours students supervised.
 - Student outcomes include papers at CHI, Creativity and Cognition, NIME, ICML, ICASSP, Interspeech and AAAI; three internships at Dolby and one at Sony AI; and committee roles at NIME 2025 and GenAICHI 2025.
