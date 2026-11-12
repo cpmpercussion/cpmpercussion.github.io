@@ -47,6 +47,7 @@ PhD students in the lab are funded by the CSIRO Next Generation Graduate Program
 - **Associate Chair**: ACM CHI 2026, ACM Multimedia 2024, ACM DIS 2022. More than 110 reviews logged in Precision Conference with special reviewer recognition at CHI 2018, DIS 2022 and CHI 2026.
 - **Senior Member** of the ACM and of the IEEE.
 - **Senior Fellow of the Higher Education Academy** (2023).
+- **[Vice-Chancellor's Award for Teaching Excellence](https://learningandteaching.anu.edu.au/development/vice-chancellor-awards-for-learning-teaching/recipients/vc-awards-2026/vice-chancellors-award-for-teaching-excellence-charles-martin/)**, ANU Vice-Chancellor's Awards for Excellence in Education 2026.
 - **Teaching Excellence Award** and **Excellence in Supervision Commendation**, ANU College of Systems and Society Education Awards 2025. Dean's Award for Remote Teaching and Student Experience (2020).
 - PhD examiner for two theses and Master's examiner for one.
 
